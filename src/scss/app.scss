@@ -28,7 +28,7 @@ html {
   flex-flow: column;
 }
 
-@media screen and (min-width: 600px) {
+@media (min-width: 600px) {
   .discounts {
     display: none;
   }
